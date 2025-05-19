@@ -1,0 +1,21 @@
+Bank: aadhar, account, assets, loans, credits, ITR return, crypto
+
+accounts: dmat, savings,
+
+dmat: net gain/loss, investment
+
+investment: which companies, profit/loss, shares, period, maturity
+
+shares: company, value, category, trading type, 
+
+savings: period, amount, form, investment, insurance
+
+insurance: type, amount, period, 
+
+assets: house, cars, churn, 
+
+crypto: company, platform, to&from, date, 
+
+transaction: 
+
+loans:
